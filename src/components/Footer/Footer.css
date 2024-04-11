@@ -1,0 +1,17 @@
+.footer {
+    position: relative;
+    font-size: 0.8rem;
+    text-align: center;
+    background: linear-gradient(90deg, #3D3072 0%, #423477 100%);
+    padding: 1rem;
+}
+
+.linikcon{
+    position: absolute;
+    width: 24px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align icon vertically with text */
+    right: 20px;
+    
+}
+
