@@ -59,13 +59,23 @@ export const PROJECTS = [
     ]
   },
   {
-    title: "Currency Convertor",
-    date: "ReactJS , TailwindCSS",
+    title: "HiddenEye",
+    date: "ReactJS , TailwindCSS, NodeJS",
     responsibilities: [
-      "Developed a sleek Currency Converter using ReactJS and Tailwind CSS, integrated with an API for accurate real-time exchange rates and supporting over 100 currencies worldwide. ",
-      "Simplified currency conversions, ensuring seamless financial transactions globally and enhancing user accessibility. ",
-      "Employed responsive design principles in the Currency Converter, ensuring a seamless and optimized user experience across various screen sizes and devices",
-      "In future, Enabled currency alerts to notify users when exchange rates reach a predefined threshold."
+      "Allowed students to interact anonymously, enabling open communication and honest sharing of experiences without hesitation.",
+      "Ensured secure college email verification to restrict access exclusively to verified students, maintaining authenticity using ReactJS and modern tech stacks.",
+      "Created a supportive platform where students could seek guidance from peers without fear of judgment, fostering a strong sense of community.",
+      "Positively impacted 80% of students by providing a pressure-free space to discuss academic stress and challenges, enhancing their confidence and well-being."
+    ]
+  },
+  {
+    title: "CareerQuest ",
+    date: "NextJS, MERN , Python",
+    responsibilities: [
+      "Built a web application during a Hackathon, providing personalized career guidance to 1,000+ students by analyzing skills, interests, and personality traits.",
+      "Integrated interactive quizzes to help students identify strengths and weaknesses, making career exploration more engaging and effective.",
+      "Implemented AI-powered recommendations, leading to better user satisfaction and increased engagement with career resources.",
+      "Developed a dashboard to visualize performance and track progress, enhancing user insights and career decision-making."
     ]
   },
   {

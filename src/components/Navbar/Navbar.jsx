@@ -36,7 +36,7 @@ const Navbar = () => {
                 <li>
                     <a className='menu-item' href='#contact'>Contact Me</a>
                 </li>
-                <a className='contact-btn' href="https://drive.google.com/file/d/1pdaPkfogVg1rNaJyWNc9yE41BPx8ibh7/view" target="_blank" rel="noopener noreferrer">
+                <a className='contact-btn' href="https://drive.google.com/file/d/1BXoQIK_tj9n6jDM7OoHDPmHx3zsTx76K/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         Get Resume
                     </a>
             </ul>

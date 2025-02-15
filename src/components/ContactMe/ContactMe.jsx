@@ -14,7 +14,7 @@ const ContactMe = () => {
     <div style={{ flex: 1 }}>
         <ContactInfoCard
         iconUrl={mailu}
-        text="moneybro02@gmail.com"
+        text="hardikchaurasia02@gmail.com"
         />
         
         <a href='https://github.com/hardikcode2' target='_blank' rel='noopener noreferrer' id='gitub'>
